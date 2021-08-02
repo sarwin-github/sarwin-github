@@ -1,4 +1,4 @@
-### A Computer Engineering graduate and a Web Developer with a passion for learning. Proficient with the MEAN STACK (Mongo,  Express, Angular,  Node) with multiple years of experience in building simple and complex web applications. 
+#### A Computer Engineering graduate and a Web Developer with a passion for learning. Proficient with the MEAN STACK (Mongo,  Express, Angular,  Node) with multiple years of experience in building simple and complex web applications. 
 
 ### Knowledge and Expertise:
 - 🔸 Experience with API Integration (Google Maps API, Stripe API, WordPress API, etc)
