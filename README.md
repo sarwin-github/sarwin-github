@@ -9,9 +9,9 @@ A Computer Engineering graduate and a Web Developer with a passion for learning.
 
 ### Technology and Stack:
 
-![](https://img.shields.io/badge/Editor-Sublime_Text-SteelBlue?style=for-the-badge&logo=SublimeText&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Language-JavaScript/ES6-SteelBlue?style=for-the-badge&logo=JavaScript&logoColor=white&color=e89643) 
+![](https://img.shields.io/badge/Editor-Sublime_Text-SteelBlue?style=flat-square&logo=SublimeText&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Language-JavaScript/ES6-SteelBlue?style=flat-square&logo=JavaScript&logoColor=white&color=e89643) 
 
-![](https://img.shields.io/badge/Frontend-Angular_9+-SteelBlue?style=for-the-badge&logo=Angular&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Backend-Node/Express-SteelBlue?style=for-the-badge&logo=Node.js&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Database-MongoDB/NoSQL-SteelBlue?style=for-the-badge&logo=Mongodb&logoColor=white&color=e89643)
+![](https://img.shields.io/badge/Frontend-Angular_9+-SteelBlue?style=flat-square&logo=Angular&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Backend-Node/Express-SteelBlue?style=flat-square&logo=Node.js&logoColor=white&color=e89643)  ![](https://img.shields.io/badge/Database-MongoDB/NoSQL-SteelBlue?style=flat-square&logo=Mongodb&logoColor=white&color=e89643)
 
 ### Knowledge and Expertise:
 - 🔸 Experience with API Integration (Google Maps API, Stripe API, WordPress API, etc)
