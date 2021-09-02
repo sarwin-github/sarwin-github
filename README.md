@@ -1,4 +1,7 @@
 A Computer Engineering graduate and a Web Developer with a passion for learning. Proficient with the MEAN STACK (Mongo,  Express, Angular,  Node) with multiple years of experience in building simple and complex web applications. 
+<hr>
+
+Visit me here: http://sherwin-dapito.me
 
 <!--
 <p align='left'>
@@ -6,6 +9,7 @@ A Computer Engineering graduate and a Web Developer with a passion for learning.
 <a href="https://www.linkedin.com/in/sherwin-dapito-20baa4126/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p> -->
+<hr>
 
 ### Technology and Stack:
 
